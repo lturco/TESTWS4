@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TESTWS", "TESTWS\TESTWS.csproj", "{584076BA-410F-419A-8043-DA91167882FC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{892E9B76-7C42-49CF-A866-47F01CD2ACE5} = {892E9B76-7C42-49CF-A866-47F01CD2ACE5}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSTEST3", "WSTEST3\WSTEST3.csproj", "{892E9B76-7C42-49CF-A866-47F01CD2ACE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{584076BA-410F-419A-8043-DA91167882FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584076BA-410F-419A-8043-DA91167882FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584076BA-410F-419A-8043-DA91167882FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584076BA-410F-419A-8043-DA91167882FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892E9B76-7C42-49CF-A866-47F01CD2ACE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892E9B76-7C42-49CF-A866-47F01CD2ACE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892E9B76-7C42-49CF-A866-47F01CD2ACE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892E9B76-7C42-49CF-A866-47F01CD2ACE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
