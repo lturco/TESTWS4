@@ -1,5 +1,0 @@
-F:\ServicioWebTEST\SWEjemplo2\MyWS\bin\MyWS.dll.config
-F:\ServicioWebTEST\SWEjemplo2\MyWS\bin\MyWS.dll
-F:\ServicioWebTEST\SWEjemplo2\MyWS\bin\MyWS.pdb
-F:\ServicioWebTEST\SWEjemplo2\MyWS\obj\Debug\MyWS.dll
-F:\ServicioWebTEST\SWEjemplo2\MyWS\obj\Debug\MyWS.pdb
