@@ -1,9 +1,0 @@
-F:\ServicioWebTEST\SWEjemplo2\TESTWS\bin\Debug\TESTWS.exe.config
-F:\ServicioWebTEST\SWEjemplo2\TESTWS\bin\Debug\TESTWS.exe
-F:\ServicioWebTEST\SWEjemplo2\TESTWS\bin\Debug\TESTWS.pdb
-F:\ServicioWebTEST\SWEjemplo2\TESTWS\obj\Debug\TESTWS.Form1.resources
-F:\ServicioWebTEST\SWEjemplo2\TESTWS\obj\Debug\TESTWS.Properties.Resources.resources
-F:\ServicioWebTEST\SWEjemplo2\TESTWS\obj\Debug\TESTWS.csproj.GenerateResource.Cache
-F:\ServicioWebTEST\SWEjemplo2\TESTWS\obj\Debug\TESTWS.exe
-F:\ServicioWebTEST\SWEjemplo2\TESTWS\obj\Debug\TESTWS.pdb
-F:\ServicioWebTEST\SWEjemplo2\TESTWS\obj\Debug\TESTWS.csprojResolveAssemblyReference.cache
